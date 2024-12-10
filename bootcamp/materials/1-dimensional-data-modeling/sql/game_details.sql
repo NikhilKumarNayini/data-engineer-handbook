@@ -1,4 +1,4 @@
-CREATE TABLE public.game_details (
+CREATE TABLE public.game_details_temp (
     game_id integer,
     team_id integer,
     team_abbreviation text,

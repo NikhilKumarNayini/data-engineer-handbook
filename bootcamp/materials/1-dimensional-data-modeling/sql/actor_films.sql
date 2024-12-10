@@ -1,4 +1,4 @@
-CREATE TABLE actor_films (
+CREATE TABLE public.actor_films (
     Actor TEXT,
     ActorId Text,
     Film TEXT,
